@@ -9,13 +9,14 @@ permalink: /
 
 **다재다능한 개발자**가 되기 위해 공부하는 **hoseCloud** 입니다~
 
-아마 처음으로 만든 제 블로그에요! 부디 둘러봐주세요~
+처음으로 만든 제 블로그에요!
 
-> 테스트 노트에요~
+부디 둘러봐주세요~
+
+> 사용중인 계정
+>
+> github : https://github.com/hoseCloud
 > 
-> [[test_note]]
-> 
-> [[1차 뉴스 클러스터링]]
 
 <style>
   .wrapper {

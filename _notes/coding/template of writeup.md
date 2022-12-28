@@ -1,8 +1,9 @@
-# 문제 제목
 
 태그 #writing 
 `[문제]()`
 template : [[template of writeup]]
+
+- "**{{**" 금지, 배포중 빌드 오류 뜸
 
 ## 문제 설명
 

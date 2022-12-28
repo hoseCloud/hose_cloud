@@ -1,4 +1,3 @@
-# n$^2$배열 자르기
 
 #level2 #cpp #writeup
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/87390)

@@ -1,4 +1,3 @@
-# JadenCase 문자열 만들기
 
 #level2 #cpp #writeup
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12951)

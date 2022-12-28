@@ -1,4 +1,3 @@
-# k진수에서 소수 개수 구하기
 
 #level2 #cpp #writeup
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/92335)

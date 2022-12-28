@@ -5,17 +5,13 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🌱
+# 반가워요! ☄
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
-</p>
+**다재다능한 개발자**가 되기 위해 공부하는 **hoseCloud** 입니다~
+아마 처음으로 만든 제 블로그에요! 부디 둘러봐주세요~
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
-
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
-
-[[test_note]]
+> 테스트 노트에요~
+> [[test_note]]
 
 <style>
   .wrapper {

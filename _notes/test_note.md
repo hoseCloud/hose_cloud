@@ -6,8 +6,13 @@ title: This is a test note
 
 > This is my test note.
 
-
-
 <script>
 	document.write("TEST HTML SCRIPT TAG");
+</script>
+
+<script>
+	for(int i = 0; i < 10; i++)
+	{
+		document.write(i);
+	}
 </script>

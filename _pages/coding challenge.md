@@ -9,8 +9,8 @@ permalink: /coding
 
 ## 프로그래머스
 
-<SCRIPT language="JavaScript">
+<script language="JavaScript">
 	for(int i = 0; i < 10; i++) {
 		document.write("- ", i);
 	}
-</SCRIPT>
+</script>

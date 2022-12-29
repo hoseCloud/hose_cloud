@@ -11,8 +11,9 @@ title: This is a test note
 </script>
 
 <script>
-	for(int i = 0; i < 10; i++)
+	var i = 0;
+	for(i = 0; i < 10; i++)
 	{
-		document.write("123123");
+		document.write(i);
 	}
 </script>

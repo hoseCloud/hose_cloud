@@ -26,6 +26,8 @@ permalink: /
 # 페이지 바로가기
 
 > 해결한 코딩 문제 : [[coding challenge]]
+>
+> 테스트 노트 : [[test_note]]
 
 <style>
   .wrapper {

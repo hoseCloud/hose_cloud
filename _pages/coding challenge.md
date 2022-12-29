@@ -9,7 +9,8 @@ permalink: /coding
 
 ## 프로그래머스
 
-```dataview
-table
-from "_notes/coding/programmers"
-```
+<script language="JavaScript">
+	for(int i = 0; i < 10; i++) {
+		document.write("- ", i);
+	}
+</script>

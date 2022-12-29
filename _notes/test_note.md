@@ -10,7 +10,7 @@ title: This is a test note
 	document.write("TEST HTML SCRIPT TAG");
 </script>
 
-<script>
+<script language="JavaScript">
 	var i = 0;
 	for(i = 0; i < 10; i++)
 	{

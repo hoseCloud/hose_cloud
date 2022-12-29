@@ -9,6 +9,7 @@ permalink: /coding
 
 ## 프로그래머스
 
-```query
-path:_notes/coding/programmers
+```dataview
+table
+from "_notes/coding/programmers"
 ```

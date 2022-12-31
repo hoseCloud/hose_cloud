@@ -37,6 +37,7 @@ permalink: /
 - [ ] 캘린더 앱 만들기   
 - [ ] 윈도우 공부   
 - [ ] 리눅스 공부   
+- [ ] RUST 공부   
 
 <style>
   .wrapper {

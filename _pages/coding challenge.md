@@ -9,9 +9,5 @@ permalink: /coding
 
 ## 프로그래머스
 
-<script>
-	for(int i = 0; i < 10; i++)
-	{
-		document.write("- ", i);
-	}
-</script>
+>  71문제 업로드 (2022-12-31)   
+>  현재 페이지 공사중 ㅜㅜ   
